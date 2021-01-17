@@ -1,2 +1,2 @@
 # webcam_timelapse_scripts
-Some crude scripts for making webcam time lapses
+Some crude bash scripts for making webcam time lapses of my 3D prints
